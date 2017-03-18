@@ -14,8 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         var str:String = ""
         var str1:String = ""
+        var str3:String = "mahesh"
 
-        print("str")
+        print("str \(str3)")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
